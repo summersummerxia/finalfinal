@@ -1,0 +1,23 @@
+
+
+#button1{
+  position: absolute;
+  padding: 15px 32px;
+  border: none;
+  top:530px;
+  left:300px;
+}
+
+#button{
+  position: absolute;
+  padding: 15px 32px;
+  border: none;
+  top:530px;
+  left:800px;
+}
+
+#text{
+  position: relative;
+  top:100px;
+  left:50px;
+}
